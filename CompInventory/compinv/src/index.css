@@ -1,0 +1,23 @@
+:root {
+  font-family: "Roboto", sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.navbar-brand {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+
+.navbar-brand:hover {
+  color: #535bf2;
+}

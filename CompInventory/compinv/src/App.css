@@ -1,0 +1,35 @@
+body { padding-bottom: 70px; }
+
+.MainTable {
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.header-bottom {
+    display: flex;
+    gap: 0.5rem;
+}
+
+
+.addButton {
+    border-radius:19px;
+}
+.EditButton {
+    background-color: rebeccapurple;
+    margin-right: 0.6rem;
+}
+
+.actionButtonGroup {
+    display: flex;
+    justify-content: center;
+}
